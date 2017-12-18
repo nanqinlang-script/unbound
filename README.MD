@@ -16,4 +16,4 @@ bash unbound_1.5.0.sh
 ```
 
 ## according
-中文文档：https://sometimesnaive.org/article/linux/technique/unbound.html
+中文文档：https://sometimesnaive.org/article/linux/software/unbound.html
